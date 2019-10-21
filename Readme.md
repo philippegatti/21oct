@@ -11,7 +11,9 @@ Attention : petit bug sur le potin n°1, tu ne peux pas l'editer (sinon il rempl
 En ce qui concerne les fichiers :
 
 Controller.rb -> controle tout comme son nom l'indique
+
 Gossip.rb -> gère la classe Gossip
 
+Et les pages sont rangées dans views of course.
 
 
